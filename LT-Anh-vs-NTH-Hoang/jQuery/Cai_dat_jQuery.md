@@ -1,6 +1,3 @@
-# README — Cài đặt và sử dụng jQuery trong Project Frontend
-
-```md
 # Cài đặt và sử dụng jQuery trong Project Frontend
 
 ---
